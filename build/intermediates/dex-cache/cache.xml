@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kagangirgin/.android/build-cache/1610080cd12efbc04354ef460873cb85c20681f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58c8bfd7e4d1c494c23cbe485b1207a42205b2e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kagangirgin/.android/build-cache/6ddb568dd43cad66591ecf44612cfe91f1cef3af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5370b0215147f9cfad45ca2dec0409cc32a8f1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kagangirgin/.android/build-cache/2a64e2ea83a61cd6f88aafc21d1428c9fc26ff91/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0759afa94f904310051ac045455e7666e30a1a9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kagangirgin/.android/build-cache/9ea2e1e2361b8204f0823ff049381e3366127a23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9bbfbf07756af1aaeb84e80f6a9ed8b4f586403/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kagangirgin/.android/build-cache/9a547d52932451b9a82e6b597e63753a4bb41cc5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0443fea52aefdf886bf9a8fd8199d1d64e8f3b4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kagangirgin/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha9/constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha9_46792cdeb8b219aaf6a8aca10450aaba2109cd45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kagangirgin/.android/build-cache/49568fef06d31d4621057e834ead97ed33bca802/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0eee2b6f283e43472e4cb7e44bf1e973bafb7cc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kagangirgin/.android/build-cache/7d7a64892f7bc334a5db36f4f181351bcb51de33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea9f40436c2992795f205bb3209d6c62398d9fae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba162f5f7a250508f57951a00bdd90c7f8be84de">
+        <dex dex="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6f49c78e8efb07cdf9e8f8f4e79c51aa99348a33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kagangirgin/.android/build-cache/2e221872434b71e97c607f0ffe50d38867dddc3e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2ce99b14510eabadf80f9eaa0b9bdf09a8438ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kagangirgin/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_60dab2a6e6bea6827e7c8cc30ede60a338bc4545/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_17db706891983f6333e3e6d30483cc71705bf1f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kagangirgin/.android/build-cache/c58fc9467a9eb4bbfe6d90a8167a1d3bb5898696/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e32db42b767dc4e587d6df6acf55d05d5d866276/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kagangirgin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_b4742192d2c424efade07bdda20f1ef7bf4d5a45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kagangirgin/.android/build-cache/2a6ba691a7f0c69ec732923203c94031fdb89c20/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2c3ae478213e9194428f5438c840735869291bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kagangirgin/.android/build-cache/be291f33c4484554fe8c978565ea27bc7fc8b5a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="74a38cad152f51cf3ca977ef4612e98e1731942b">
+        <dex dex="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b84abbd0edbfd3903e03bf18b7c3d3089e7ca9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kagangirgin/.android/build-cache/671e8da164bd5a3f9c2ae0cef84db52362934cf9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/kagangirgin/Desktop/AndroidProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f916db5b4bab2568ed51fa2e8e3dcbde4d4acd7/classes.dex" />
+    </item>
+
+</items>

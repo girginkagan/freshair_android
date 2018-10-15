@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4d3fb5</color>
+    <color name="colorPrimaryDark">#3b2b8f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTextwh">#fff</color>
+    <color name="sunnyday">#42a5f5</color>
+    <color name="divider">#dedede</color>
+    <color name="rainyday">#283593</color>
+    <color name="black">#333</color>
+    <color name="colorRectangle">#9e9e9e</color>
+</resources>
